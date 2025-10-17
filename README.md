@@ -2,6 +2,19 @@
 
 A comprehensive guide and template collection for building Model Context Protocol (MCP) servers using FastMCP and deploying them to Google Cloud Run.
 
+## 🚀 New Team Member? Start Here!
+
+**For Automated Setup** (5 minutes):
+1. Open Claude Code (the CLI)
+2. Copy and paste the prompt from [`SETUP-PROMPT.md`](./SETUP-PROMPT.md)
+3. Follow the interactive guidance
+4. Done! You'll have everything configured and a test server running.
+
+**For Manual Setup** or more details:
+- Read the full [`ONBOARDING.md`](./ONBOARDING.md) guide
+
+---
+
 ## Quick Start for Team Members
 
 This starter kit provides:
